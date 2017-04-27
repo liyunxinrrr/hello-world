@@ -1,4 +1,4 @@
 # hello-world
 
 yunxin li here.
-i am astudent.
+i am a student.
